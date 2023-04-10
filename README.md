@@ -1,6 +1,8 @@
 # ChatGPT_Selenium
 An undetected-chrome interface to communicate with ChatGPT
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ugorsahin.ChatGPT_Selenium&left_color=grey&right_color=purple)
+
 You need to have Chrome installed.
 To pass Cloudflare robot test, undetected-chrome is a must.
 
@@ -73,7 +75,13 @@ If you would like to alter responses, use the positional arguments
 ```
 two_heads.continue_conversation(text_1: str= None, text_2: str= None)
 ```
+## Tech
+[![Tech](https://skillicons.dev/icons?i=py,selenium&perline=11)](https://skillicons.dev)
 
 ## Issues & Contribution
 
 I would be happy to answer any questions or accept your contributions. Let me know in issues if you need anything..
+
+## License
+
+[![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](LICENSE)
